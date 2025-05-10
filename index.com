@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>привет!</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">мои сайты</a>
+    </header>
+    <main>
+      <h1>Здраствуйте!</h1>
+     <h5>Сайт сделала в голубом , так как он более спокойный</h5>
+     <h4>Представлюсь, меня зовут Катя.На этом курсе нас научили делать свои сайты,теперь мы можем делать сайты на заказ!</h4>
+     <img class="yyyy" src="https://i.pinimg.com/736x/bf/5e/a0/bf5ea0bace8e507560bba4524fe86821.jpg" width="300" height="400px">
+     
+    </main>
+    <footer>
+    <h4>Всем спасибо!</h4>
+    </footer>
+  </body>
+</html>
